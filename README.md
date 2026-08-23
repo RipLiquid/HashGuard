@@ -1,4 +1,4 @@
-# File Integrity Checker
+#  HashGuard (File Integrity Checker)
 
 A lightweight Python cybersecurity tool that monitors files for unauthorized or unexpected changes using SHA-256 cryptographic hashing.
 
