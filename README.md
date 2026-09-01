@@ -260,22 +260,6 @@ File integrity monitoring can help identify unauthorized configuration changes, 
 * GitHub
 * GitHub Actions
 
-## Future Improvements
-
-Potential enhancements include:
-
-* Command-line arguments
-* Configurable monitored directories
-* Real-time file monitoring
-* Scan history and logging
-* Timestamps for detected changes
-* Desktop or email alerts
-* Ignore patterns
-* Multiple monitored directories
-* Automated baseline updates
-* Packaged CLI installation
-
-
 ## Author
 
 Daniyal Tauseef
